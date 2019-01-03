@@ -7,7 +7,7 @@ package consistent_test
 import (
 	"fmt"
 	"log"
-	"stathat.com/c/consistent"
+	"github.com/gjbae1212/consistent"
 )
 
 func ExampleNew() {
